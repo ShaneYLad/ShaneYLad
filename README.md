@@ -6,41 +6,60 @@
 
 ## 🚀 About Me
 
-I'm a computing student based in the UK, focused on digital forensics, cybersecurity, and privacy education. I believe privacy is a human right and I'm making content, and projects that help people know about it and reclaim it.
+I'm a computing student based in the UK, currently studying **Level 3 IT in college** after completing a **Level 2 Diploma in IT**. I'm planning to pursue **cybersecurity at university**, with a focus on digital forensics and privacy education.
 
-I create content around mental health, gaming, and privacy setups. My current tech stack includes GrapheneOS (Soon), Signal, ProtonMail, KeePassDX, and ProtonVPN. I'm also working toward launching freelance services in privacy audits, secure phone setups, and digital footprint cleanups. 
+I believe privacy is a human right and I'm building content and projects to help people understand it and reclaim control. I create content around mental health, gaming, and privacy setups. My current tech stack includes GrapheneOS (coming soon), Signal, ProtonMail, KeePassDX, and ProtonVPN. I'm also preparing to launch freelance services in privacy audits, secure phone setups, and digital footprint cleanups.
 
-(WHEN COMMISIONS ARE OPEN, PAGE WILL BE UPDATED)
+> *Commissions will open soon — this page will be updated when live.*
 
 ---
 
 ## 🛠️ Skills & Tools
 
-- **Privacy & Security**: GrapheneOS, VPNs, encrypted comms, secure app stacks
-- **Tech**: Linux/Windows, basic scripting, digital compartmentalization, secure setups
-- **Content Creation**: Video editing & channel branding
-- **Portfolio Building**: Privacy audits, digital hygiene reports, secure onboarding guides
+- **Privacy & Security**: GrapheneOS, VPNs, encrypted comms, secure app stacks  
+- **Tech**: Linux/Windows, basic scripting, digital compartmentalization, secure setups  
+- **Content Creation**: Video editing, channel branding  
+- **Portfolio Building**: Privacy audits, digital hygiene reports, secure onboarding guides  
 
 ---
 
 ## 🎯 Goals
 
-- 📱 Build a privacy-first phone setup (Pixel + GrapheneOS)
-- 🧠 Launch a YouTube channel focused on mental health & privacy & security
-- 💼 Offer freelance cybersecurity & privacy services
+- 📱 Build and maintain a privacy-first phone setup (Pixel + GrapheneOS)  
+- 💼 Launch freelance services in cybersecurity and digital privacy  
+- 📂 Develop a portfolio of privacy tools, audits, and secure configurations  
+- 🎓 Pursue further education in cybersecurity and digital forensics  
+- 📈 Grow technical skills in Linux, networking, and ethical hacking  
+- 🎥 Create educational and awareness content around privacy and mental health  
 
 ---
 
 ## 🧩 Featured Projects
 
+- 🔐 **Password Strength Analyzer** *(Coming Soon)*  
+  A simple tool that checks password strength and gives tips for creating secure, resilient passwords.
 
-## SOON
+- 🌐 **Browser Privacy Hardening Guide** *(Coming Soon)*  
+  A step-by-step guide to locking down Firefox, Brave, and Chromium for maximum privacy.
 
+- 🧹 **Digital Declutter Script** *(Coming Soon)*  
+  A bash or PowerShell script that clears browser history, temp files, and digital clutter.
+
+- 📊 **Cybersecurity Awareness Quiz** *(Coming Soon)*  
+  A beginner-friendly quiz covering phishing, passwords, scams, and social engineering basics.
+
+- 📡 **Simple Port Scanner** *(Coming Soon)*  
+  A basic Python or Bash tool to scan open ports on a target IP — perfect for learning recon.
 
 ---
 
 ## 📫 Contact Me
 
-- **Email**: [shanzoig@proton.me](shanzoig@proton.me)
-- **Signal**: DM for secure contact: [ShaneGreen.76](https://signal.me/#eu/4fPKFJ5PoE7nb0EgDM5DKx2LlOy2ebWx6JBoCaahT04sMW92hJhMC54AJrfE6Iwk) 
-- **YouTube**: Coming soon
+- **Email**: [shanzoig@proton.me](mailto:shanzoig@proton.me)  
+- **Signal**: [ShaneGreen.76](https://signal.me/#eu/4fPKFJ5PoE7nb0EgDM5DKx2LlOy2ebWx6JBoCaahT04sMW92hJhMC54AJrfE6Iwk)  
+- **YouTube**: Coming soon — “ShaneYLad”
+
+---
+
+> “Privacy isn’t paranoia it’s preparation.”  
+> — Shane Green
