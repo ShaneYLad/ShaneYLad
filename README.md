@@ -6,9 +6,11 @@
 
 ## 🚀 About Me
 
-I'm a computing student based in the UK, focused on digital forensics, cybersecurity, and privacy education. I believe privacy is a human right — and I'm building tools, content, and systems that help people reclaim it.
+I'm a computing student based in the UK, focused on digital forensics, cybersecurity, and privacy education. I believe privacy is a human right and I'm making content, and projects that help people know about it and reclaim it.
 
-I create content around mental health, gaming arcs, and privacy setups. My current tech stack includes GrapheneOS (Soon), Signal, ProtonMail, KeePassDX, and ProtonVPN. I'm also working toward launching freelance services in privacy audits, secure phone setups, and digital footprint cleanups.
+I create content around mental health, gaming, and privacy setups. My current tech stack includes GrapheneOS (Soon), Signal, ProtonMail, KeePassDX, and ProtonVPN. I'm also working toward launching freelance services in privacy audits, secure phone setups, and digital footprint cleanups. 
+
+(WHEN COMMISIONS ARE OPEN, PAGE WILL BE UPDATED)
 
 ---
 
