@@ -24,10 +24,8 @@ I create content around mental health, gaming arcs, and privacy setups. My curre
 ## 🎯 Goals
 
 - 📱 Build a privacy-first phone setup (Pixel + GrapheneOS)
-- 🧠 Launch a YouTube channel focused on mental health & privacy
+- 🧠 Launch a YouTube channel focused on mental health & privacy & security
 - 💼 Offer freelance cybersecurity & privacy services
-- 🏡 Save for a 2-bedroom house with a garden (and a future dog)
-- 🥊 Explore boxing for discipline and confidence
 
 ---
 
@@ -36,6 +34,7 @@ I create content around mental health, gaming arcs, and privacy setups. My curre
 
 ## SOON
 
+
 ---
 
 ## 📫 Contact Me
@@ -43,7 +42,3 @@ I create content around mental health, gaming arcs, and privacy setups. My curre
 - **Email**: [shanzoig@proton.me](shanzoig@proton.me)
 - **Signal**: DM for secure contact: [ShaneGreen.76](https://signal.me/#eu/4fPKFJ5PoE7nb0EgDM5DKx2LlOy2ebWx6JBoCaahT04sMW92hJhMC54AJrfE6Iwk) 
 - **YouTube**: Coming soon — “ShaneYLad”
----
-
-> “Privacy isn’t paranoia — it’s preparation.”  
-> — Shane Green
