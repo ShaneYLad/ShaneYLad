@@ -18,7 +18,7 @@ I create content around mental health, gaming, and privacy setups. My current te
 
 - **Privacy & Security**: GrapheneOS, VPNs, encrypted comms, secure app stacks
 - **Tech**: Linux/Windows, basic scripting, digital compartmentalization, secure setups
-- **Content Creation**: Video editing, channel branding, storytelling through gameplay
+- **Content Creation**: Video editing & channel branding
 - **Portfolio Building**: Privacy audits, digital hygiene reports, secure onboarding guides
 
 ---
@@ -43,4 +43,4 @@ I create content around mental health, gaming, and privacy setups. My current te
 
 - **Email**: [shanzoig@proton.me](shanzoig@proton.me)
 - **Signal**: DM for secure contact: [ShaneGreen.76](https://signal.me/#eu/4fPKFJ5PoE7nb0EgDM5DKx2LlOy2ebWx6JBoCaahT04sMW92hJhMC54AJrfE6Iwk) 
-- **YouTube**: Coming soon — “ShaneYLad”
+- **YouTube**: Coming soon
