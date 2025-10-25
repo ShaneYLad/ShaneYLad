@@ -37,19 +37,21 @@ I believe privacy is a human right and I'm building content and projects to help
 ## 🧩 Featured Projects
 
 - 🔐 **Password Strength Analyzer** *(Coming Soon)*  
-  A simple tool that checks password strength and gives tips for creating secure, resilient passwords.
+  A beginner-friendly tool that checks password strength and gives tips for creating secure, resilient passwords.
 
 - 🌐 **Browser Privacy Hardening Guide** *(Coming Soon)*  
   A step-by-step guide to locking down Firefox, Brave, and Chromium for maximum privacy.
 
-- 🧹 **Digital Declutter Script** *(Coming Soon)*  
-  A bash or PowerShell script that clears browser history, temp files, and digital clutter.
+- 🧹 **Digital Declutter Script** ✅  
+  A cross-platform script (PowerShell + Bash) that clears browser cache, history, temp files, trash, and recent files.  
+  [View Repo →](https://https://github.com/shanzoig/Digital_Declutter)
 
 - 📊 **Cybersecurity Awareness Quiz** *(Coming Soon)*  
   A beginner-friendly quiz covering phishing, passwords, scams, and social engineering basics.
 
 - 📡 **Simple Port Scanner** *(Coming Soon)*  
   A basic Python or Bash tool to scan open ports on a target IP — perfect for learning recon.
+
 
 ---
 
