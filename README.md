@@ -53,6 +53,8 @@ I believe privacy is a human right and I'm building content and projects to help
 - 📡 **Simple Port Scanner** *(Coming Soon)*  
   A basic Python or Bash tool to scan open ports on a target IP — perfect for learning recon.
 
+Once the following list above has been completed, will move on to advanded projects.
+Keep a eye on YouTube.
 
 ---
 
