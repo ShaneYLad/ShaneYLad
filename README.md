@@ -48,6 +48,7 @@ I believe privacy is a human right and I'm building content and projects to help
 
 - 📊 **Cybersecurity Awareness Quiz** *(Coming Soon)*  
   A beginner-friendly quiz covering phishing, passwords, scams, and social engineering basics.
+  [View Repo →](https://github.com/shanzoig/cybersecurity-quiz-cli.git)
 
 - 📡 **Simple Port Scanner** *(Coming Soon)*  
   A basic Python or Bash tool to scan open ports on a target IP — perfect for learning recon.
