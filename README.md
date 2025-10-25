@@ -8,7 +8,7 @@
 
 I'm a computing student based in the UK, currently studying **Level 3 IT in college** after completing a **Level 2 Diploma in IT**. I'm planning to pursue **cybersecurity at university**, with a focus on digital forensics and privacy education.
 
-I believe privacy is a human right and I'm building content and projects to help people understand it and reclaim control. I create content around mental health, gaming, and privacy setups. My current tech stack includes GrapheneOS (coming soon), Signal, ProtonMail, KeePassDX, and ProtonVPN. I'm also preparing to launch freelance services in privacy audits, secure phone setups, and digital footprint cleanups.
+I believe privacy is a human right and I'm building content and projects to help people understand it and reclaim control. I create content around mental health, gaming, and privacy setups. My current tech stack includes GrapheneOS (coming soon), Signal, ProtonMail, ProtonPass, and ProtonVPN. I'm also preparing to launch freelance services in privacy audits, secure phone setups, and digital footprint cleanups.
 
 > *Commissions will open soon — this page will be updated when live.*
 
