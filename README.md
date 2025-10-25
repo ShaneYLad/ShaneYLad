@@ -44,7 +44,7 @@ I believe privacy is a human right and I'm building content and projects to help
 
 - 🧹 **Digital Declutter Script** ✅  
   A cross-platform script (PowerShell + Bash) that clears browser cache, history, temp files, trash, and recent files.  
-  [View Repo →](https://https://github.com/shanzoig/Digital_Declutter)
+  [View Repo →](https://github.com/shanzoig/Digital_Declutter.git)
 
 - 📊 **Cybersecurity Awareness Quiz** *(Coming Soon)*  
   A beginner-friendly quiz covering phishing, passwords, scams, and social engineering basics.
