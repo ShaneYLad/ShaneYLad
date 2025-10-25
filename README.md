@@ -42,13 +42,12 @@ I believe privacy is a human right and I'm building content and projects to help
 - 🌐 **Browser Privacy Hardening Guide** *(Coming Soon)*  
   A step-by-step guide to locking down Firefox, Brave, and Chromium for maximum privacy.
 
-- 🧹 **Digital Declutter Script** ✅  
+- 🧹 **Digital Declutter Script** 
   A cross-platform script (PowerShell + Bash) that clears browser cache, history, temp files, trash, and recent files.  
   [View Repo →](https://github.com/shanzoig/Digital_Declutter.git)
 
-- 📊 **Cybersecurity Awareness Quiz** *(Coming Soon)*  
-  A beginner-friendly quiz covering phishing, passwords, scams, and social engineering basics.
-  
+- 📊 **Cybersecurity Quiz**
+  A beginner-friendly quiz covering phishing, passwords, scams, and social engineering basics.                           
   [View Repo →](https://github.com/shanzoig/cybersecurity-quiz-cli.git)
 
 - 📡 **Simple Port Scanner** *(Coming Soon)*  
