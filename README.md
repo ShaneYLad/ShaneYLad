@@ -52,7 +52,7 @@ I believe privacy is a human right and I'm building content and projects to help
   [View Repo →](https://github.com/shanzoig/cybersecurity-quiz-cli.git)
 
 - 📡 **Simple Port Scanner** 
-  A basic Python or Bash tool to scan open ports on a target IP — perfect for learning recon.
+  A basic Python or Bash tool to scan open ports on a target IP — perfect for learning recon.     
   [View Repo →](https://github.com/ShaneYLad/port_scanner.git)
 
 Once the following list above has been completed, will move on to advanded projects.
