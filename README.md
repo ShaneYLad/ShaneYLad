@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Shane Green (Online "ShaneYLad")
+# 👋 Hey, I'm Shane Green (Online "Shanzo/ShaneYLad")
 
 🎓 Level 3 IT student | 🔐 Privacy-first tech enthusiast | 🎥 Content creator
 
