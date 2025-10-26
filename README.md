@@ -36,8 +36,9 @@ I believe privacy is a human right and I'm building content and projects to help
 
 ## 🧩 Featured Projects
 
-- 🔐 **Password Strength Analyzer** *(Coming Soon)*  
-  A beginner-friendly tool that checks password strength and gives tips for creating secure, resilient passwords.
+- 🔐 **Password Strength Analyzer**
+  A tool to check how secure your password is and can generate you a stronger one.
+  [View Repo →](https://github.com/ShaneYLad/Password_Checker.git)
 
 - 🌐 **Browser Privacy Hardening Guide** *(Coming Soon)*  
   A step-by-step guide to locking down Firefox, Brave, and Chromium for maximum privacy.
