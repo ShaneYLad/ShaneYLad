@@ -64,7 +64,7 @@ Keep a eye on YouTube.
 
 - **Email**: [shanzoig@proton.me](mailto:shanzoig@proton.me)  
 - **Signal**: [ShaneGreen.76](https://signal.me/#eu/4fPKFJ5PoE7nb0EgDM5DKx2LlOy2ebWx6JBoCaahT04sMW92hJhMC54AJrfE6Iwk)  
-- **YouTube**: Coming soon — “ShaneYLad”
+- **YouTube**: [ShaneYLad](https://youtube.com/@ShaneYLad?sub_confirmation=1)
 
 ---
 
