@@ -56,7 +56,7 @@ I believe privacy is a human right and I'm building content and projects to help
   [View Repo →](https://github.com/ShaneYLad/port_scanner.git)
 
 Once the following list above has been completed, will move on to advanded projects.
-Keep a eye on YouTube.
+Keep a eye on YouTube and X.
 
 ---
 
