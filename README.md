@@ -40,9 +40,9 @@ I believe privacy is a human right and I'm building content and projects to help
   A tool to check how secure your password is and can generate you a stronger one.  
   [View Repo →](https://github.com/ShaneYLad/Password_Checker.git)
 
-- 🌐 **DedSec Discord Bot** *(Coming Soon)*  
-  A Discord bot that has multiple commands to help you with privacy, security and career guides.
-
+- 🌐 **DedSec Discord Bot**  
+  A Discord bot that has multiple commands to help you with privacy, security and career guides.  
+  [View Repo →](https://github.com/ShaneYLad/dedsec_dcbot.git)
 - 🧹 **Digital Declutter Script** 
   A cross-platform script (PowerShell + Bash) that clears browser cache, history, temp files, trash, and recent files.  
   [View Repo →](https://github.com/shanzoig/Digital_Declutter.git)
