@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a UK-based computing student currently studying **Level 3 IT**, with plans to pursue **cybersecurity and digital forensics** at university. I believe **privacy is a human right**, and I'm building tools, content, and services to help people — especially vulnerable users — reclaim control of their digital lives.
+I'm a UK-based computing student currently studying **Level 3 IT**, with plans to pursue **cybersecurity and digital forensics** at university. I believe **privacy is a human right**, and I'm building tools, content, and services to help people. Especially vulnerable users.
 
 My work blends **child safety**, **ethical tech**, and **privacy education**. Inspired by creators like 0day and Scammer Payback, I aim to make Sanctum a refuge for digital empowerment.
 
@@ -22,7 +22,7 @@ Sanctum is a modular brand focused on:
 - 🛠️ **Tools & Programs**
 - 🧑‍🤝‍🧑 **Community & Support**
 
-Sanctum builds ethical, empowering tech for people in need — from spiritual comfort to scam protection.
+Sanctum builds ethical, empowering tech for people in need.
 
 ---
 
@@ -51,10 +51,10 @@ Sanctum builds ethical, empowering tech for people in need — from spiritual co
 - 🌐 [**DedSec Discord Bot**](https://github.com/ShaneYLad/dedsec_dcbot.git)  
   Offers privacy tips, security commands, and career guidance.
 
-- 🧹 [**Digital Declutter Script**](https://github.com/shanzoig/Digital_Declutter.git)  
+- 🧹 [**Digital Declutter Script**](https://github.com/ShaneYLad/Digital_Declutter.git)  
   Cleans browser cache, temp files, and recent history (PowerShell + Bash).
 
-- 📊 [**Cybersecurity Quiz**](https://github.com/shanzoig/cybersecurity-quiz-cli.git)  
+- 📊 [**Cybersecurity Quiz**](https://github.com/ShaneYLad/cybersecurity-quiz-cli.git)  
   Beginner-friendly CLI quiz on phishing, scams, and password hygiene.
 
 - 📡 [**Simple Port Scanner**](https://github.com/ShaneYLad/port_scanner.git)  
