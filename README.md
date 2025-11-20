@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Shane Green  
 **Online alias: ShaneYLad**  
-🎓 Level 3 IT Student | 🔐 Privacy-First Tech Builder | 🎥 Content Creator | 🛡️ Founder of Sanctum
+🎓 Level 3 IT Student | 🔐 Privacy-First Tech Builder | 🎥 Content Creator
 
 ---
 
@@ -11,18 +11,6 @@ I'm a UK-based computing student currently studying **Level 3 IT**, with plans t
 My work blends **child safety**, **ethical tech**, and **privacy education**. Inspired by creators like 0day and Scammer Payback, I aim to make Sanctum a refuge for digital empowerment.
 
 > *Commissions will open soon — this page will be updated when live.*
-
----
-
-## 🛡️ Sanctum
-
-Sanctum is a modular brand focused on:
-
-- 🧠 **Education & Awareness** 
-- 🛠️ **Tools & Programs**
-- 🧑‍🤝‍🧑 **Community & Support**
-
-Sanctum builds ethical, empowering tech for people in need.
 
 ---
 
