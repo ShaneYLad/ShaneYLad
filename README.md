@@ -10,7 +10,6 @@ I'm a UK-based computing student currently studying **Level 3 IT**, with plans t
 
 My work blends **child safety**, **ethical tech**, and **privacy education**. Inspired by creators like 0day and Scammer Payback, I aim to make Sanctum a refuge for digital empowerment.
 
-> *Commissions will open soon — this page will be updated when live.*
 
 ---
 
