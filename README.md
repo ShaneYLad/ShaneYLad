@@ -8,15 +8,15 @@
 
 I'm a UK-based computing student currently studying **Level 3 IT**, with plans to pursue **cybersecurity* at university. I believe **privacy is a human right**, and I'm building tools, content, and services to help people. Especially vulnerable users.
 
-My work blends **child safety**, **ethical tech**, and **privacy education**. Inspired by creators like 0day and Scammer Payback, I aim to make Sanctum a refuge for digital empowerment.
+My work blends **child safety**, **ethical tech**, and **privacy education**. Inspired by creators like 0day and Scammer Payback.
 
 
 ---
 
 ## 🛠️ Skills & Tools
 
-- **Privacy & Security**: GrapheneOS, VPNs, encrypted comms, secure app stacks  
-- **Tech**: Linux/Windows, scripting, digital compartmentalization  
+- **Privacy & Security**: VPNs, encrypted comms, secure app stacks, Open Source Software  
+- **Tech**: Linux, scripting, digital compartmentalization  
 - **Portfolio Building**: Privacy audits, hygiene reports, onboarding guides
 
 ---
