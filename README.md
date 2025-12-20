@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Shane Green  
+# 👋 Hey, I'm Shane  
 **Online alias: ShaneYLad**  
 🎓 Level 3 IT Student | 🔐 Privacy-First Tech Builder | 🎥 Content Creator
 
@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a UK-based computing student currently studying **Level 3 IT**, with plans to pursue **cybersecurity and digital forensics** at university. I believe **privacy is a human right**, and I'm building tools, content, and services to help people. Especially vulnerable users.
+I'm a UK-based computing student currently studying **Level 3 IT**, with plans to pursue **cybersecurity* at university. I believe **privacy is a human right**, and I'm building tools, content, and services to help people. Especially vulnerable users.
 
 My work blends **child safety**, **ethical tech**, and **privacy education**. Inspired by creators like 0day and Scammer Payback, I aim to make Sanctum a refuge for digital empowerment.
 
