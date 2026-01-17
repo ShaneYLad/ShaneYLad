@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Shane Mallon  
+# 👋 Hey, I'm Shane  
 **Online alias: ShaneYLad**  
 🎓 Level 3 IT Student | 🔐 Privacy-First Tech Builder | 🎥 Content Creator
 
