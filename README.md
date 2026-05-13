@@ -1,63 +1,85 @@
-# 👋 Hey, I'm Shane  
-**Online alias: ShaneYLad**  
-🎓 Level 3 IT Student | 🔐 Privacy-First Tech Builder | 🎥 Content Creator
+# Hey, I'm Shane
+
+**ShaneYLad**  
+Level 3 IT student from the UK who enjoys building random projects, scripting stuff, and learning new tech whenever something catches my interest.
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a UK-based computing student currently studying **Level 3 IT**, with plans to pursue **cybersecurity** at university. I believe **privacy is a human right**, and I'm building tools, content, and services to help people — especially vulnerable users.
+I mostly build whatever I feel like at the time.
 
-My work blends **child safety**, **ethical tech/hacking**, and **privacy education**. Inspired by creators like 0day and Scammer Payback, I aim to make cybersecurity more accessible and actionable.
+Sometimes that’s Python scripts or automation tools, other times it’s Linux tweaking, cybersecurity-related projects, or random experiments that help me learn something new.
 
----
+I’m not focused on one specific niche — I just enjoy creating things, solving problems, and improving my skills as I go.
 
-## 🛠️ Skills & Tools
-
-- **Privacy & Security**: VPNs, encrypted comms, breach detection, open-source tools  
-- **Tech Stack**: Linux, Python, Bash, PowerShell, CLI scripting  
-- **Content & Community**: Discord bots, YouTube tutorials, tech support
+A lot of what I know came from experimenting, breaking things, fixing them, and slowly getting better over time.
 
 ---
 
-## 🎯 Current Goals
+## Things I’m Into
 
-- 💼 Offer freelance services in cybersecurity and digital privacy  
-- 🧰 Build tools for child safety, scam awareness, and cyber security purposes 
-- 🎓 Advance toward a cybersecurity degree and professional certifications  
-- 🎥 Create educational content on privacy, Linux, and ethical hacking
-- 🗾 Move to Japan with the career in Penatration Testing.  
-
----
-
-## 🧩 Featured Projects
-
-- 🔐 [**Password Strength Analyzer**](https://github.com/ShaneYLad/Password_Checker.git)  
-  Checks password security and suggests stronger alternatives.
-
-- 🤖 [**DedSec Discord Bot**](https://github.com/ShaneYLad/dedsec_dcbot.git)  
-  Tech support bot with privacy tips, password checks, and breach alerts.
-
-- 🧹 [**Digital Declutter Script**](https://github.com/ShaneYLad/Digital_Declutter.git)  
-  Cross-platform cleanup tool for browser cache, temp files, and history.
-
-- 🧠 [**Cybersecurity Quiz CLI**](https://github.com/ShaneYLad/cybersecurity-quiz-cli.git)  
-  Terminal-based quiz to reinforce security concepts and best practices.
-
-- 📡 [**Simple Port Scanner**](https://github.com/ShaneYLad/port_scanner.git)  
-  Lightweight Python/Bash tool for scanning open ports and basic recon.
-
-> More tools and walkthroughs coming soon — follow me on [YouTube](https://youtube.com/@ShaneYLad?sub_confirmation=1) and [X](https://x.com/ShaneYLadd) for updates.
+- Python scripting
+- Linux & terminal workflows
+- Automation/tools
+- Cybersecurity basics
+- Privacy-focused tech
+- Content creation
+- Learning by building
+- Websites
 
 ---
 
-## 📫 Contact Me
+## Skills & Tools
 
-- 📧 Email: [shane.green1@proton.me](mailto:shane.green1@proton.me)  
-- 📱 Signal: [ShaneGreen.67](https://signal.me/#eu/w-UJ0oMOBDnrMI05W6NYyOmEieKLUOAGJ9D5Xae6S_oUrnLytYJH3qprzuTgsl8X)  
-- ▶️ YouTube: [ShaneYLad](https://youtube.com/@ShaneYLad?sub_confirmation=1)
+- Python
+- Bash
+- AI
+- PowerShell
+- Linux
+- Git & GitHub
+- VS Code
+- CLI tools
+- Discord bot development
+- Website Development
 
 ---
 
-> “Privacy isn’t paranoia — it’s preparation.”  
-> — Shane Green
+## Current Goals
+
+- Keep building projects that actually interest me
+- Improve my Linux and scripting knowledge
+- Grow my content creation skills
+- Finish Level 3 IT
+- Eventually move to Japan
+
+---
+
+## Projects
+
+### 🔐 Password Strength Analyzer
+Checks password strength and suggests stronger alternatives.  
+[GitHub Repo](https://github.com/ShaneYLad/Password_Checker.git?utm_source=chatgpt.com)
+
+### 🤖 DedSec Discord Bot
+Discord bot with utilities, moderation features, and tech-related commands.  
+[GitHub Repo](https://github.com/ShaneYLad/dedsec_dcbot.git?utm_source=chatgpt.com)
+
+### 🧹 Digital Declutter
+Simple cleanup tool for temporary files, cache, and browser junk.  
+[GitHub Repo](https://github.com/ShaneYLad/Digital_Declutter.git?utm_source=chatgpt.com)
+
+### 🧠 Cybersecurity Quiz CLI
+Terminal-based cybersecurity quiz for learning security concepts.  
+[GitHub Repo](https://github.com/ShaneYLad/cybersecurity-quiz-cli.git?utm_source=chatgpt.com)
+
+### 📡 Simple Port Scanner
+Basic Python/Bash port scanner for learning networking and recon fundamentals.  
+[GitHub Repo](https://github.com/ShaneYLad/port_scanner.git?utm_source=chatgpt.com)
+
+---
+
+## Contact
+
+- Proton Mail: shane.green1@proton.me
+- Signal: ShaneGreen.67
