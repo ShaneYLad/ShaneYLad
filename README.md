@@ -56,7 +56,7 @@ A lot of what I know came from experimenting, breaking things, fixing them, and 
 ## Projects
 
 ### 🌠 PLASMA
-PLASMA is a fully local MP4 streaming platform that lets you organise, stream, and manage your own movies and series with a modern UI. It includes profiles, watch progress, favourites, genres, search, an admin dashboard, and full movie/series management — all stored locally and designed for personal home‑server use.
+PLASMA is a fully local MP4 streaming platform that lets you organise, stream, and manage your own movies and series with a modern UI. It includes profiles, watch progress, favourites, genres, search, an admin dashboard, and full movie/series management — all stored locally and designed for personal home‑server use.       
 [Github Repo](https://github.com/shanzofr/PLASMA.git)
 
 ### 🔐 Password Strength Analyzer
